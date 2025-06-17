@@ -15,5 +15,5 @@
 homepage: "https://www.analytics-training.com"
 documentation: "https://github.com/Jdfmiller/posthog-web-gtm-template/"
 versions:
-  - sha: 1d140e3a515de33211d6565042f6d908de1b35f6
+  - sha: 20b337c9e4d66ad4561ebe2a99dd57c7f6a57288
     changeNotes: Initial Version
