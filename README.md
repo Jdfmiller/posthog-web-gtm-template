@@ -6,7 +6,7 @@ Generally this is to speed up the process of implementing posthog via GTM on the
 
 Meaning you don't have to paste the snippet as a custom HTML tag in GTM. 
 
-Eventually i'd like to update it to add in properties and some of the other features posthog offers.
+Eventually I'd like to update it to add in properties and some of the other features posthog offers.
 
 To be clear I am in no way affiliated with posthog, I just think the tool is baller and it's about time it got a template in GTM.
 
