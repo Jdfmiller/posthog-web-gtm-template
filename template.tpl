@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "PostHog Web",
+  "categories": ["ANALYTICS", "SESSION_RECORDING", "HEAT_MAP","DATA_WAREHOUSING","EXPERIMENTATION",],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
