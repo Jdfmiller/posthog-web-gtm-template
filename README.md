@@ -1,4 +1,4 @@
-# posthgo-web-gtm-template
+# posthog-web-gtm-template
 
 This is the repo for a posthog GTM template.
 
